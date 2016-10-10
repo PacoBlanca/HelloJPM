@@ -1,6 +1,7 @@
 Project name: HelloJPMorgan
 
 Spec: Weak
+
 Purpose: Work, get a job, have fun
 
 -----------------
@@ -12,5 +13,7 @@ Comments: Run every place on Windows, Linux, Mac, etc. Between the binaries you 
 
 
 Best regards,
+
 Paco Blanca
+
 pacob@gmx.es
