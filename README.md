@@ -1,4 +1,4 @@
-Project name: HelloJPMorgan
+Project name: HelloJPM
 
 -----------------
 
