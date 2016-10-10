@@ -1,10 +1,7 @@
 Project name: HelloJPMorgan
 
-Spec: Weak
-
-Purpose: Work, get a job, have fun
-
 -----------------
+
 Done: Java 8 application, JavaFX
 
 How to run: Double click on HelloJPMorgan.jar or in command line you can execute for example with: java -jar HelloJPMorgan.jar
