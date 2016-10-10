@@ -1,8 +1,8 @@
 Project name: HelloJPMorgan
 
 Purpose: Work, get a job, have fun
-
 Spec: Weak
+
 -----------------
 Done: Java 8 application, JavaFX
 
